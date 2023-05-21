@@ -1,0 +1,15 @@
+#JobCardDivStyle {
+    display: flex;
+    align-Items: center;
+    justify-Content: center;
+    width: 100%;
+    height: 100%;
+}
+
+#JobCardStyle {
+    width: 20rem; 
+    height: 100%;
+    margin-Top: 10px;
+    text-Align: left;
+    z-index: 999;
+}

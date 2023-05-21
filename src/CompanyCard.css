@@ -1,0 +1,35 @@
+/* .CompanyCard {
+    color: black;
+    text-decoration: none;
+  }
+  
+  .CompanyCard-div {
+    display: grid;
+    grid-template-columns: 11fr 1fr;
+    margin: 1rem 0;
+    background-color: white;
+    padding: 1rem;
+  }
+  
+  .CompanyCard-div:first-child {
+    grid-column: 1 / 2;
+  }
+  
+  .CompanyCard-div:last-child {
+    grid-column: 2 / 3;
+  } */
+
+.CompanyCardStyle {
+    width: 30rem; 
+    height: 100%;
+    margin: 10px;
+    text-align: left;
+}
+
+.CompanyCardDiv {
+    display: flex;
+    align-items: center;
+    justify-Content: center;
+    width: 100%;
+    height: 100%;
+}
